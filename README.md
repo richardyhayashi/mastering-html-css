@@ -11,9 +11,19 @@ by `HuXn WebDev`
 2. HTML & CSS Course Setup
 3. What is HTML?
 4. Structure of HTML
-5.
-6.
-7.
+5. Headings & Paragraphs In HTML
+6. Comments In HTML 
+7. Lorem Ipsum
 8.
 9.
 10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
