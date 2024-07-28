@@ -14,7 +14,7 @@ by `HuXn WebDev`
 5. Headings & Paragraphs In HTML
 6. Comments In HTML 
 7. Lorem Ipsum
-8.
+8. Lists in HTML
 9.
 10.
 11.
