@@ -7,6 +7,7 @@
 
 https://www.pixels.com
 https://unsplash.com
+https://www.pexels.com
 
 ## YouTube
 
@@ -23,7 +24,7 @@ by `HuXn WebDev`
 9. Images in HTML
 10. Links & Hyperlinks in HTML
 11. Forms & Input in HTML
-12.
+12. Video & Audio in HTML
 13.
 14.
 15.
