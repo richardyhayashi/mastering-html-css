@@ -1,0 +1,9 @@
+services:
+  html-css:
+    image: mastering-html-css:1.0.0
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - 8080:80
+    volumes:
+      - ./src:/usr/share/nginx/html
