@@ -21,7 +21,7 @@ by `HuXn WebDev`
 7. Lorem Ipsum
 8. Lists in HTML
 9. Images in HTML
-10.
+10. Links & Hyperlinks in HTML
 11.
 12.
 13.
